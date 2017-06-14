@@ -5,7 +5,7 @@ Created quickly to read the UK election results from BBCs (incredibly heavy) web
 See output at [loki.sockspls.com/2017](https://loki.sockspls.com/2017)
 
 Update: Doesn't work anymore the page it scrapes is down I think; it looked like this
-
+```
 +---------------------------+-------+
 |           Party           | Seats |
 +---------------------------+-------+
@@ -16,3 +16,4 @@ Update: Doesn't work anymore the page it scrapes is down I think; it looked like
 | Democratic Unionist Party |   10  |
 |           Others          |   11  |
 +---------------------------+-------+
+```
